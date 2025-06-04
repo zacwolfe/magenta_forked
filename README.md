@@ -1,4 +1,4 @@
-# Magenta YOLO for Colab
+# Magenta for Colab
 
 YOLO'd version of Google AI [Magenta](https://magenta.tensorflow.org/) for Colab, as [original repository](https://github.com/magenta/magenta) is no longer maintained in that regard. This is a set of questionable duct-tape workarounds that keeps the stuff I need from Magenta working in Colab (Jun 2025).
 
@@ -61,3 +61,5 @@ Run like this:
 ```
 !melody_rnn_generate --config=attention_rnn --num_outputs=10 ...
 ```
+
+Work in progress to update Magenta to run on current Colab (Python 3.11)
