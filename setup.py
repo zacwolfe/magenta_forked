@@ -157,3 +157,6 @@ setup(
         'magenta': ['models/image_stylization/evaluation_images/*.jpg'],
     },
 )
+
+if __name__ == "__main__":
+    setup()
