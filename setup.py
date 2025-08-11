@@ -49,7 +49,7 @@ REQUIRED_PACKAGES = [
     'tensorflow-probability==0.17.0',
     'tf_slim==1.1.0',
     'wheel==0.37.1',
-    'protobuf==3.20.0',
+    'protobuf>=3.20.0',
     'pychord'
 ]
 
